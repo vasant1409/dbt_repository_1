@@ -22,6 +22,7 @@ GROUP BY
       Variable_name, 
       Units,
       variable,
+      Variable_category,
       Industry_aggregation_NZSIOC
 )
 

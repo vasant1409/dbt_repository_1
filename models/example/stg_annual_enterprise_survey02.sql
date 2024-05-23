@@ -7,7 +7,8 @@ SELECT
     id,
     year AS Year,
     Industry_code_NZSIOC AS Industry_code,
-    Industry_name_NZSIOC AS Industry_name
+    Industry_name_NZSIOC AS Industry_name,
+    Value as value
 FROM survey
 )
 

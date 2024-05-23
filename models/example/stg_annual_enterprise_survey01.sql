@@ -6,7 +6,7 @@ ae AS (
 SELECT 
     id,
     value,
-    Variable_category
+    variable
 FROM survey
 )
 

@@ -18,9 +18,8 @@ WHERE
 GROUP BY
       Year, 
       Industry_code, 
-      Industry_name, 
-      Size_group, 
-      Variable, 
+      Industry_name,  
+      Variable_name, 
       Units,
       Variable_category,
       Industry_aggregation_NZSIOC

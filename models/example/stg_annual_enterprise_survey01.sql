@@ -6,7 +6,6 @@ ae AS (
 SELECT 
     id,
     value,
-    Industry_aggregation_NZSIOC,
     Variable_category
 FROM survey
 )

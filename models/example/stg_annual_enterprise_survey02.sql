@@ -8,7 +8,7 @@ SELECT
     year AS Year,
     Industry_code_NZSIOC AS Industry_code,
     Industry_name_NZSIOC AS Industry_name, 
-    Variable, 
+    Variable_name, 
     Units,
     Variable_category,
     Industry_aggregation_NZSIOC,

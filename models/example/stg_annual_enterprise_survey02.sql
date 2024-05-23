@@ -8,6 +8,11 @@ SELECT
     year AS Year,
     Industry_code_NZSIOC AS Industry_code,
     Industry_name_NZSIOC AS Industry_name,
+    Size_group, 
+    Variable, 
+    Units,
+    Variable_category,
+    Industry_aggregation_NZSIOC,
     Value as value
 FROM survey
 )

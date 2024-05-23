@@ -6,8 +6,8 @@ n AS (
 SELECT 
     id,
     year AS Year,
-    industry_code_ANZSIC AS Industry_code,
-    industry_name_ANZSIC AS Industry_name,
+    Industry_code_NZSIOC AS Industry_code,
+    Industry_name_NZSIOC AS Industry_name,
     rme_size_grp AS Size_group,
     variable AS Variable,
     value,

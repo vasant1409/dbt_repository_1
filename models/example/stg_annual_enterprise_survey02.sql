@@ -1,6 +1,6 @@
 WITH
 survey AS (
-SELECT * FROM `cloudside-academy.dataset1409.annual-enterprise-survey01`),
+SELECT * FROM `cloudside-academy.dataset1409.annual-enterprise-survey02`),
 
 x2 AS ( 
 SELECT 

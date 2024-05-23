@@ -14,7 +14,7 @@ RIGHT JOIN
 ON
     t2.id = t1.id
 WHERE
-    t2.value <> 'C' AND t1.value <> 'C'
+    t2.Value <> 'C' AND t1.value <> 'C'
 GROUP BY
       Year, 
       Industry_code, 
